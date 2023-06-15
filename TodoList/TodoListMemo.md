@@ -2,7 +2,7 @@
 
 ## 알게된 내용
 
-####1. @state 
+#### 1. @state 
 
 - View에서만 사용함
 - class 에서 @state처럼 사용가능한 프로퍼티 @Published
@@ -16,7 +16,7 @@
 
 #### 5. @stateObject로 ViewModel 최초 선언
 
-####6. @Environment(.presentationMode)로 뷰가 dismiss되도록 구현함
+#### 6. @Environment(.presentationMode)로 뷰가 dismiss되도록 구현함
 
 #### 7. asset에서 color set 만들어줌
 
