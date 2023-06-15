@@ -17,5 +17,3 @@ List에서 model을 구분하기위해서는 데이터가 Identifiable를 채택
 @Environment(.presentationMode)로 뷰가 dismiss되도록 구현함
 
 asset에서 color set 만들어줌
-
-launchScreen info.list에서 지우고 storyboard로 추가함
